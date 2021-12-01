@@ -1,2 +1,1 @@
-# OOP
-learning how to code object-oriented
+# OOP - learning how to code object-oriented
